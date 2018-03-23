@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Wasfa.iml" filepath="$PROJECT_DIR$/Wasfa.iml" />
+      <module fileurl="file://E:\desktop2018\shno\Wasfa\Wasfa\Wasfa.iml" filepath="E:\desktop2018\shno\Wasfa\Wasfa\Wasfa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\desktop2018\shno\Wasfa\Wasfa\app\app.iml" filepath="E:\desktop2018\shno\Wasfa\Wasfa\app\app.iml" />
     </modules>
   </component>
 </project>

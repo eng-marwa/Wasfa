@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e64a3c</color>
+    <color name="colorPrimaryDark">#d13123</color>
+    <color name="colorAccent">#e64a3c</color>
+    <color name="white">#fff</color>
+    <color name="whitetransparent">#c8ffffff</color>
+    <color name="grey">#f2f2f2</color>
+    <color name="cardview_light_background">#ffffff</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="while_overlay">#66f2f2f2</color>
+    <color name="while_overlay1">#b4f2f2f2</color>
+    <color name="colorGray">#413e3e</color>
+    <color name="colorAccent1">#d7cfbc</color>
+    <color name="item_name">#000</color>
+
+</resources>

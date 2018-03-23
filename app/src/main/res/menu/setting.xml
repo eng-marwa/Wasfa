@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fav"
+        android:orderInCategory="100"
+        android:title="المفضلة"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nw"
+        android:orderInCategory="100"
+        android:title="اضافة وجبة"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sign"
+        android:orderInCategory="100"
+        android:title="تسجيل خروج"
+        app:showAsAction="never" />
+</menu>

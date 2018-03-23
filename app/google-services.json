@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "307592727403",
+    "firebase_url": "https://wasfa-a30e3.firebaseio.com",
+    "project_id": "wasfa-a30e3",
+    "storage_bucket": "wasfa-a30e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307592727403:android:4757e4af3e89534c",
+        "android_client_info": {
+          "package_name": "com.mr.java.shno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307592727403-grfarpplq5kfgltu551s9lkif47j3b0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mr.java.shno",
+            "certificate_hash": "383237fe79b3ccf4e4dc2c4af02d1c84f90bdd2c"
+          }
+        },
+        {
+          "client_id": "307592727403-jm0393aq3eq86gpfj7n000vp7qlag63g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdPUr4U0-vXjM3WK5tNlLzym46bAhHwbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307592727403-jm0393aq3eq86gpfj7n000vp7qlag63g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

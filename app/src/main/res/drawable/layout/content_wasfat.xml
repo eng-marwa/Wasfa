@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress XmlUnboundNsPrefix, XmlUnboundNsPrefix -->
+<android.support.v4.widget.NestedScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:fillViewport="true"
+    app:layout_anchor="@id/app_bar_layout"
+    app:layout_anchorGravity="bottom"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:showIn="@layout/activity_wasfat">
+    <com.mr.wasfat.NonScrollExpandableListView
+        android:id="@+id/expand"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:divider="#eee"
+        android:childDivider="#eee"
+        android:dividerHeight="1dp"/>
+
+</LinearLayout>
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="main_spinner">
+        <item>معكرونه</item>
+        <item>أرز</item>
+        <item>لحم مفروم</item>
+        <item>لحم</item>
+        <item>دجاج</item>
+        <item>سمك</item>
+        <item>ربيان</item>
+        <item>سلمون</item>
+        <item>شعرية</item>
+        <item>بيض</item>
+
+    </array>
+    <array name="sweets">
+        <item>بيكنج باودر</item>
+        <item>زبدة</item>
+        <item>طحين</item>
+        <item>بيض</item>
+        <item>سكر</item>
+        <item>تمر</item>
+        <item>شوكولاته</item>
+        <item>خليط كيك</item>
+        <item>حليب</item>
+    </array>
+    <array name="main">
+        <item>بروكلي</item>
+        <item>مشروم</item>
+        <item>عدس</item>
+        <item>بطاطس</item>
+        <item>روب</item>
+        <item>ليمون</item>
+        <item>بقدونس</item>
+        <item>طماط</item>
+        <item>فلفل</item>
+        <item>خس</item>
+        <item>بطاط</item>
+        <item>جزر</item>
+    </array>
+</resources>

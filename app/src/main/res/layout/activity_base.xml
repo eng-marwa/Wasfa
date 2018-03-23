@@ -1,0 +1,65 @@
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:orientation="horizontal"
+    android:background="@color/colorPrimary"
+    app:menu="@menu/navigation"
+    android:layoutDirection="rtl"
+    android:layout_gravity="bottom"
+    app:itemIconTint="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ImageView
+        android:id="@+id/navigation_home"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:padding="15dp"
+        app:srcCompat="@drawable/ic_home"
+        tools:ignore="VectorDrawableCompat" />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#ffffff" />
+
+    <ImageView
+        android:id="@+id/navigation_add"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:padding="15dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/ic_add_contact"
+        tools:ignore="VectorDrawableCompat" />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#ffffff" />
+    <ImageView
+        android:id="@+id/navigation_lock"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:padding="15dp"
+        app:srcCompat="@drawable/ic_lock_user_symbol"
+        tools:ignore="VectorDrawableCompat" />
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:background="#ffffff" />
+    <ImageView
+        android:id="@+id/navigation_fav"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="1"
+        android:padding="15dp"
+        app:srcCompat="@drawable/ic_add_a_star_interface_symbol"
+        tools:ignore="VectorDrawableCompat" />
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">شنو أطبخ!</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="empty" />
+    <string name="title_activity_edit_wasfa">EditWasfa</string>
+    <string name="title_activity_add_wasfa">اضافة وجبة</string>
+    <string name="title_activity_fav_wasfa">المفضلة</string>
+    <string name="title_add">إضافة مستخدم</string>
+    <string name="title_lock">تسجيل خروج</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_login">تسجيل دخول</string>
+    <string name="title_activity_shno">Shno</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
